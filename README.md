@@ -4,5 +4,5 @@
 [Link](https://www.google.com)
 ```html
 <h1>Text</h1>
-<div>Editlendi</div>
+<div>İkinci edit</div>
 ```
